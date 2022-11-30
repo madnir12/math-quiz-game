@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/math-quiz-game/static/css/main.6253763c.chunk.css",
+    "main.css": "/math-quiz-game/static/css/main.a703bd2f.chunk.css",
     "main.js": "/math-quiz-game/static/js/main.c059ef59.chunk.js",
     "main.js.map": "/math-quiz-game/static/js/main.c059ef59.chunk.js.map",
     "runtime-main.js": "/math-quiz-game/static/js/runtime-main.bfd83d66.js",
@@ -8,9 +8,9 @@
     "static/js/2.301b1066.chunk.js": "/math-quiz-game/static/js/2.301b1066.chunk.js",
     "static/js/2.301b1066.chunk.js.map": "/math-quiz-game/static/js/2.301b1066.chunk.js.map",
     "index.html": "/math-quiz-game/index.html",
-    "precache-manifest.3aeaaabf4b668de1942f2418aaa5bbb1.js": "/math-quiz-game/precache-manifest.3aeaaabf4b668de1942f2418aaa5bbb1.js",
+    "precache-manifest.2e5925b5a3209f4dcdc32824e7f9239c.js": "/math-quiz-game/precache-manifest.2e5925b5a3209f4dcdc32824e7f9239c.js",
     "service-worker.js": "/math-quiz-game/service-worker.js",
-    "static/css/main.6253763c.chunk.css.map": "/math-quiz-game/static/css/main.6253763c.chunk.css.map",
+    "static/css/main.a703bd2f.chunk.css.map": "/math-quiz-game/static/css/main.a703bd2f.chunk.css.map",
     "static/js/2.301b1066.chunk.js.LICENSE.txt": "/math-quiz-game/static/js/2.301b1066.chunk.js.LICENSE.txt",
     "static/media/Wrong-answer-sound-effect.mp3": "/math-quiz-game/static/media/Wrong-answer-sound-effect.093eed4f.mp3",
     "static/media/correct-answer.mp3": "/math-quiz-game/static/media/correct-answer.d0c5f222.mp3"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.bfd83d66.js",
     "static/js/2.301b1066.chunk.js",
-    "static/css/main.6253763c.chunk.css",
+    "static/css/main.a703bd2f.chunk.css",
     "static/js/main.c059ef59.chunk.js"
   ]
 }
